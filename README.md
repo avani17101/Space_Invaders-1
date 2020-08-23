@@ -2,8 +2,8 @@
 ## Project 1: NAVIGATE THE MARS ROVER
 Help the Mars Curiosity Rover find the shortest path between two points while avoiding obstacles on the way. <br>
 
-Winner all over India in the Micrsoft Mars Colonization Porgram<br>
-[Leaderboard and Further info abour program](https://microsoft.acehacker.com/mars/)
+**Winner all over India in the Microsoft Mars Colonization Program** <br>
+[Leaderboard and Further info about program](https://microsoft.acehacker.com/mars/)
 ## Introduction
 This is the Javascript based webapp for navigating the mars rover using various pathfinding algorithms. It lets the user visualize route found using various algorithms, add checkpoints along the way, mazes to confuse the rover and drag start, checkpoints and endpoints in real time.
 
